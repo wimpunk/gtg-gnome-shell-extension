@@ -1,4 +1,4 @@
-#GTG integration with GNOME Shell
+# GTG integration with GNOME Shell
 
 The integration of GTG with GNOME Shell was a 2012 Summer of Code project realized by [Baptiste Saleil](https://github.com/bsaleil).
 
@@ -6,7 +6,7 @@ The integration of GTG with GNOME Shell was a 2012 Summer of Code project realiz
  - [Summer of Code project page](https://wiki.gnome.org/Outreach/SummerOfCode/2012/Projects/BaptisteSaleil_GTG_GNOME_Shell)
  - created by [Baptiste Saleil](https://github.com/bsaleil)
 
-##Installation
+## Installation
 
 Automatically from extensions repository:
 
@@ -50,12 +50,12 @@ This menu shows GTG's tasks to do for selected day in calendar menu, on the left
 You can see two different colors for your tasks.
 The first one (Grey) displays tasks which has start date identic to the day selected and the second one (Dark grey) displays only tasks with a start date before the day selected and/or a due date after the day selected.
 
-####Todo list
+#### Todo list
 
 On the right side of the calendar menu is the todo list.
 This menu displays only tasks without start date AND without due date.
 By this way, every tasks are listed to user.
 
-###Preferences
+### Preferences
 
 ![Preferences](https://raw.githubusercontent.com/getting-things-gnome/gtg-gnome-shell-extension/master/documents/guadec/prefs.png "Preferences")
